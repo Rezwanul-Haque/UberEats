@@ -1,5 +1,5 @@
 # UberEats
-Restaurant Web app for multiple 
+Restaurant Web app for multiple Resturants (Mobile version "ISO APP" was not complete yet.)
 
 This project is live-hosted in heroku 
 
